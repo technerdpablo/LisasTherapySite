@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+
+header {
+    padding: 30px;
+    text-align: center;
+    background: #13293d;
+    color: #fff;
+    font-size: 25px;
+  }
+
+#sober-font {
+    font-family:  'Brush Script MT', cursive;
+    font-size: 90px;
+}
+
+
+#header-banner {
+    display: flex;
+    background-color: #d8a17f;
+    font-size: 30px;
+}
+
+
+
+.sect1 {
+    
+}
+
+
